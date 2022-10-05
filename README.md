@@ -1,10 +1,9 @@
 # CodeSquad HomeAssignment - *GitHub repository of previous HomeAssignment*
 
-#Name: *Shankar Ale Magar*
 
 
 ## Video Walkthrough
-![](https://i.imgur.com/1aphCOs.gif)
+![](https://i.imgur.com/zzeXYw8.gif)
 
 Here's a walkthrough :
 
